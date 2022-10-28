@@ -1,0 +1,428 @@
+{
+    "Peças Prata":[
+     {
+      "Nome": "Brinco Bola",
+      "Coleção": "Geometria",
+      "Cor": "Amarelo",
+      "Descrição": "Brinco em prata 925, com resina aplicada",
+      "Preço": 595,
+      "OBS": "retirei"
+     },
+     {
+      "Nome": "Brinco Bola",
+      "Coleção": "Geometria",
+      "Cor": "Laranja",
+      "Descrição": "Brinco em prata 925, com resina aplicada",
+      "Preço": 595
+     },
+     {
+      "Nome": "Brinco Bola",
+      "Coleção": "Geometria",
+      "Cor": "Vinho",
+      "Descrição": "Brinco em prata 925, com resina aplicada",
+      "Preço": 595,
+      "OBS": "retirei"
+     },
+     {
+      "Nome": "Brinco Bola",
+      "Coleção": "Geometria",
+      "Cor": "Branco",
+      "Descrição": "Brinco em prata 925, com resina aplicada",
+      "Preço": 595
+     },
+     {
+      "Nome": "Brinco Bola",
+      "Coleção": "Geometria",
+      "Cor": "Rosa",
+      "Descrição": "Brinco em prata 925, com resina aplicada",
+      "Preço": 595,
+      "OBS": "retirei"
+     },
+     {
+      "Nome": "Brinco Triangular",
+      "Coleção": "Geometria",
+      "Cor": "Amarelo",
+      "Descrição": "Brinco em prata 925, com resina aplicada",
+      "Preço": 630
+     },
+     {
+      "Nome": "Brinco Triangular",
+      "Coleção": "Geometria",
+      "Cor": "Laranja",
+      "Descrição": "Brinco em prata 925, com resina aplicada",
+      "Preço": 630
+     },
+     {
+      "Nome": "Brinco Triangular",
+      "Coleção": "Geometria",
+      "Cor": "Vinho",
+      "Descrição": "Brinco em prata 925, com resina aplicada",
+      "Preço": 630
+     },
+     {
+      "Nome": "Brinco Triangular",
+      "Coleção": "Geometria",
+      "Cor": "Branco",
+      "Descrição": "Brinco em prata 925, com resina aplicada",
+      "Preço": 630
+     },
+     {
+      "Nome": "Brinco Triangular",
+      "Coleção": "Geometria",
+      "Cor": "Rosa",
+      "Descrição": "Brinco em prata 925, com resina aplicada",
+      "Quantidade ALPHAVILLE": 1,
+      "Preço": 630
+     },
+     {
+      "Nome": "Anel Geometrico",
+      "Coleção": "Geometria",
+      "Cor": "Amarelo",
+      "Descrição": "Anel em prata 925, com resina aplicada",
+      "Tamanho": 17,
+      "Quantidade ALPHAVILLE": 1,
+      "Preço": 420
+     },
+     {
+      "Nome": "Anel Geometrico",
+      "Coleção": "Geometria",
+      "Cor": "Laranja",
+      "Descrição": "Anel em prata 925, com resina aplicada",
+      "Tamanho": 15,
+      "Quantidade ALPHAVILLE": 1,
+      "Preço": 420
+     },
+     {
+      "Nome": "Anel Geometrico",
+      "Coleção": "Geometria",
+      "Cor": "Vinho",
+      "Descrição": "Anel em prata 925, com resina aplicada",
+      "Tamanho": "15; 22",
+      "Quantidade ALPHAVILLE": 2,
+      "Preço": 420
+     },
+     {
+      "Nome": "Anel Geometrico",
+      "Coleção": "Geometria",
+      "Cor": "Branco",
+      "Descrição": "Anel em prata 925, com resina aplicada",
+      "Tamanho": 18,
+      "Quantidade ALPHAVILLE": 1,
+      "Preço": 420
+     },
+     {
+      "Nome": "Anel Geometrico",
+      "Coleção": "Geometria",
+      "Cor": "Rosa",
+      "Descrição": "Anel em prata 925, com resina aplicada",
+      "Preço": 420
+     },
+     {
+      "Nome": "Anel Bola",
+      "Coleção": "Geometria",
+      "Cor": "Amarelo",
+      "Descrição": "Anel em prata 925, com resina aplicada",
+      "Tamanho": 15,
+      "Preço": 630,
+      "OBS": "retirei"
+     },
+     {
+      "Nome": "Anel Bola",
+      "Coleção": "Geometria",
+      "Cor": "Laranja",
+      "Descrição": "Anel em prata 925, com resina aplicada",
+      "Tamanho": "19; 21",
+      "Preço": 630,
+      "OBS": "retirei"
+     },
+     {
+      "Nome": "Anel Bola",
+      "Coleção": "Geometria",
+      "Cor": "Vinho",
+      "Descrição": "Anel em prata 925, com resina aplicada",
+      "Preço": 630
+     },
+     {
+      "Nome": "Anel Bola",
+      "Coleção": "Geometria",
+      "Cor": "Branco",
+      "Descrição": "Anel em prata 925, com resina aplicada",
+      "Preço": 630,
+      "OBS": "retirei"
+     },
+     {
+      "Nome": "Anel Bola",
+      "Coleção": "Geometria",
+      "Cor": "Rosa",
+      "Descrição": "Anel em prata 925, com resina aplicada",
+      "Tamanho": 17,
+      "Preço": 630,
+      "OBS": "retirei"
+     },
+     {
+      "Nome": "Colar",
+      "Coleção": "Geometria",
+      "Cor": "Amarelo",
+      "Descrição": "Pingente em prata 925, com resina aplicada. Acompanha corrente 35cm.",
+      "Preço": 650
+     },
+     {
+      "Nome": "Colar",
+      "Coleção": "Geometria",
+      "Cor": "Laranja",
+      "Descrição": "Pingente em prata 925, com resina aplicada. Acompanha corrente 35cm.",
+      "Quantidade ALPHAVILLE": 1,
+      "Preço": 650
+     },
+     {
+      "Nome": "Colar",
+      "Coleção": "Geometria",
+      "Cor": "Vinho",
+      "Descrição": "Pingente em prata 925, com resina aplicada. Acompanha corrente 35cm.",
+      "Preço": 650
+     },
+     {
+      "Nome": "Colar",
+      "Coleção": "Geometria",
+      "Cor": "Branco",
+      "Descrição": "Pingente em prata 925, com resina aplicada. Acompanha corrente 35cm.",
+      "Preço": 650
+     },
+     {
+      "Nome": "Colar",
+      "Coleção": "Geometria",
+      "Cor": "Rosa",
+      "Descrição": "Pingente em prata 925, com resina aplicada. Acompanha corrente 35cm.",
+      "Quantidade ALPHAVILLE": 1,
+      "Preço": 650
+     },
+     {
+      "Nome": "Broche Retangular",
+      "Coleção": "Geometria",
+      "Cor": "Amarelo",
+      "Descrição": "Broche em prata 925, com resina aplicada. ",
+      "Preço": 450,
+      "OBS": "retirei"
+     },
+     {
+      "Nome": "Broche Retangular",
+      "Coleção": "Geometria",
+      "Cor": "Laranja",
+      "Descrição": "Broche em prata 925, com resina aplicada. ",
+      "Preço": 450,
+      "OBS": "retirei"
+     },
+     {
+      "Nome": "Broche Retangular",
+      "Coleção": "Geometria",
+      "Cor": "Vinho",
+      "Descrição": "Broche em prata 925, com resina aplicada. ",
+      "Preço": 450,
+      "OBS": "retirei"
+     },
+     {
+      "Nome": "Broche Retangular",
+      "Coleção": "Geometria",
+      "Cor": "Branco",
+      "Descrição": "Broche em prata 925, com resina aplicada. ",
+      "Preço": 450,
+      "OBS": "retirei"
+     },
+     {
+      "Nome": "Broche Retangular",
+      "Coleção": "Geometria",
+      "Cor": "Rosa",
+      "Descrição": "Broche em prata 925, com resina aplicada. ",
+      "Preço": 450,
+      "OBS": "vendido"
+     },
+     {
+      "Nome": "Pulseira Geometrica",
+      "Coleção": "Bracelets",
+      "Cor": "Amarelo",
+      "Descrição": "Bracelete em prata 925, com resina aplicada. ",
+      "Quantidade ALPHAVILLE": 1,
+      "Preço": 680
+     },
+     {
+      "Nome": "Pulseira Geometrica",
+      "Coleção": "Bracelets",
+      "Cor": "Laranja",
+      "Descrição": "Bracelete em prata 925, com resina aplicada. ",
+      "Quantidade ALPHAVILLE": 1,
+      "Preço": 680
+     },
+     {
+      "Nome": "Pulseira Geometrica",
+      "Coleção": "Bracelets",
+      "Cor": "Vinho",
+      "Descrição": "Bracelete em prata 925, com resina aplicada. ",
+      "Quantidade ALPHAVILLE": 1,
+      "Preço": 680
+     },
+     {
+      "Nome": "Pulseira Geometrica",
+      "Coleção": "Bracelets",
+      "Cor": "Branco",
+      "Descrição": "Bracelete em prata 925, com resina aplicada. ",
+      "Quantidade ALPHAVILLE": 2,
+      "Preço": 680
+     },
+     {
+      "Nome": "Pulseira Geometrica",
+      "Coleção": "Bracelets",
+      "Cor": "Rosa",
+      "Descrição": "Bracelete em prata 925, com resina aplicada. ",
+      "Preço": 680
+     },
+     {
+      "Nome": "Anel Gold",
+      "Coleção": "Precious Gold",
+      "Cor": "Preto",
+      "Descrição": "Bracelete em prata 925, com resina aplicada. ",
+      "Tamanho": 21,
+      "Quantidade ALPHAVILLE": 1,
+      "Preço": 695
+     },
+     {
+      "Nome": "Anel Gold",
+      "Coleção": "Precious Gold",
+      "Cor": "Azul",
+      "Tamanho": 17,
+      "Quantidade ALPHAVILLE": 1,
+      "Preço": 695
+     },
+     {
+      "Nome": "Anel Gold",
+      "Coleção": "Precious Gold",
+      "Cor": "Verde",
+      "Tamanho": 20,
+      "Preço": 695,
+      "OBS": "retirei"
+     },
+     {
+      "Nome": "Anel Gold",
+      "Coleção": "Precious Gold",
+      "Cor": "Coral",
+      "Preço": 695
+     },
+     {
+      "Nome": "Brinco Bola Gold",
+      "Coleção": "Precious Gold",
+      "Cor": "Preto",
+      "Preço": 750,
+      "OBS": "retirei"
+     },
+     {
+      "Nome": "Brinco Bola Gold",
+      "Coleção": "Precious Gold",
+      "Cor": "Azul",
+      "Preço": 750,
+      "OBS": "retirei"
+     },
+     {
+      "Nome": "Brinco Bola Gold",
+      "Coleção": "Precious Gold",
+      "Cor": "Verde",
+      "Preço": 750,
+      "OBS": "retirei"
+     },
+     {
+      "Nome": "Brinco Bola Gold",
+      "Coleção": "Precious Gold",
+      "Cor": "Coral",
+      "Preço": 750,
+      "OBS": "retirei"
+     },
+     {
+      "Quantidade ALPHAVILLE": 15
+     },
+     null,
+     {
+      "Preço": ""
+     }
+    ],
+    "Peças Resina":[
+     {
+      "Nome": "Pulseira Gomos",
+      "Coleção": "Resina",
+      "Cor": "após",
+      "Quantidade ALPHAVILLE": 6,
+      "Preço": 130,
+      "OBS": "1 de cada cor e 2 vinhos"
+     },
+     {
+      "Nome": "Pulseira cilindrica",
+      "Coleção": "Resina",
+      "Cor": "após",
+      "Quantidade ALPHAVILLE": 4,
+      "Preço": 140,
+      "OBS": "2 de cada cor"
+     },
+     {
+      "Nome": "Pulseira lisa",
+      "Coleção": "Resina",
+      "Cor": "após",
+      "Quantidade ALPHAVILLE": 6,
+      "Preço": 60,
+      "OBS": "2 de cada cor"
+     },
+     {
+      "Nome": "Brinco Ponto",
+      "Coleção": "Resina",
+      "Cor": "após",
+      "Quantidade ALPHAVILLE": 2,
+      "Preço": 42,
+      "OBS": "1 de cada cor"
+     },
+     {
+      "Nome": "Colar Bolas",
+      "Coleção": "Resina",
+      "Cor": "após",
+      "Quantidade ALPHAVILLE": 5,
+      "Preço": 177,
+      "OBS": "1 de cada cor"
+     },
+     {
+      "Nome": "Colar Elos",
+      "Coleção": "Resina",
+      "Cor": "após",
+      "Quantidade ALPHAVILLE": 4,
+      "Preço": 204,
+      "OBS": "1 de cada cor"
+     },
+     {
+      "Nome": "Colar oval",
+      "Coleção": "Resina",
+      "Cor": "após",
+      "Quantidade ALPHAVILLE": 2,
+      "Preço": 280,
+      "OBS": "1 de cada cor"
+     },
+     {
+      "Nome": "Colar Cubos",
+      "Coleção": "Resina",
+      "Cor": "após",
+      "Quantidade ALPHAVILLE": 4,
+      "Preço": 255,
+      "OBS": "1 de cada cor"
+     },
+     {
+      "Cor": "tota;l",
+      "Quantidade ALPHAVILLE": 33,
+      "Preço": 5065
+     },
+     
+     {
+      "OBS": "vendido"
+     },
+   
+     {
+      "Quantidade ALPHAVILLE": 66
+     },
+     null,
+     {
+      "Preço": ""
+     }
+    ]
+    }

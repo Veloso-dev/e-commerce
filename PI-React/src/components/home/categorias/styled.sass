@@ -1,0 +1,39 @@
+@use '../../../styles/global/mixins'
+    
+
+.repository-list
+    display: flex
+    flex-direction: column
+    
+
+    .srcForCat
+       margin: 5rem 0px 4rem 15rem 
+
+    .repositoryMap
+        margin-bottom: 100px
+
+
+
+    
+    
+article.artHome
+    @include mixins.center
+    display: flex
+    justify-content: center
+    align-items: center
+    overflow: hidden
+    flex-direction: column
+
+    img.img-article
+        max-width: 100%
+        max-height: 100%
+        width: 200px
+        height: 200px
+
+@media (max-width: 700px)
+    .repositoryMap 
+        flex-direction: column
+
+    .srcForCat
+        position: relative
+        right:100px

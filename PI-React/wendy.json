@@ -1,0 +1,424 @@
+{
+    "SilverParts": [
+        {
+            "Name": "Brinco Bola",
+            "Collection": "Geometria",
+            "Color": "Amarelo",
+            "Description": "Brinco em prata 925, com resina aplicada",
+            "Price":595,
+            "OBS": "retirei"
+        },
+        {
+            "Name": "Brinco Bola",
+            "Collection": "Geometria",
+            "Color": "Laranja",
+            "Description": "Brinco em prata 925, com resina aplicada",
+            "Price":595
+        },
+        {
+            "Name": "Brinco Bola",
+            "Collection": "Geometria",
+            "Color": "Vinho",
+            "Description": "Brinco em prata 925, com resina aplicada",
+            "Price":595,
+            "OBS": "retirei"
+        },
+        {
+            "Name": "Brinco Bola",
+            "Collection": "Geometria",
+            "Color": "Branco",
+            "Description": "Brinco em prata 925, com resina aplicada",
+            "Price":595
+        },
+        {
+            "Name": "Brinco Bola",
+            "Collection": "Geometria",
+            "Color": "Rosa",
+            "Description": "Brinco em prata 925, com resina aplicada",
+            "Price":595,
+            "OBS": "retirei"
+        },
+        {
+            "Name": "Brinco Triangular",
+            "Collection": "Geometria",
+            "Color": "Amarelo",
+            "Description": "Brinco em prata 925, com resina aplicada",
+            "Price":630
+        },
+        {
+            "Name": "Brinco Triangular",
+            "Collection": "Geometria",
+            "Color": "Laranja",
+            "Description": "Brinco em prata 925, com resina aplicada",
+            "Price":630
+        },
+        {
+            "Name": "Brinco Triangular",
+            "Collection": "Geometria",
+            "Color": "Vinho",
+            "Description": "Brinco em prata 925, com resina aplicada",
+            "Price":630
+        },
+        {
+            "Name": "Brinco Triangular",
+            "Collection": "Geometria",
+            "Color": "Branco",
+            "Description": "Brinco em prata 925, com resina aplicada",
+            "Price":630
+        },
+        {
+            "Name": "Brinco Triangular",
+            "Collection": "Geometria",
+            "Color": "Rosa",
+            "Description": "Brinco em prata 925, com resina aplicada",
+            "QuantityAlpha":1,
+            "Price":630
+        },
+        {
+            "Name": "Anel Geometrico",
+            "Collection": "Geometria",
+            "Color": "Amarelo",
+            "Description": "Anel em prata 925, com resina aplicada",
+            "Tamanho":17,
+            "QuantityAlpha":1,
+            "Price":420
+        },
+        {
+            "Name": "Anel Geometrico",
+            "Collection": "Geometria",
+            "Color": "Laranja",
+            "Description": "Anel em prata 925, com resina aplicada",
+            "Tamanho":15,
+            "QuantityAlpha": 1,
+            "Price":420
+        },
+        {
+            "Name": "Anel Geometrico",
+            "Collection": "Geometria",
+            "Color": "Vinho",
+            "Description": "Anel em prata 925, com resina aplicada",
+            "Tamanho": "15; 22",
+            "QuantityAlpha":2,
+            "Price":420
+        },
+        {
+            "Name": "Anel Geometrico",
+            "Collection": "Geometria",
+            "Color": "Branco",
+            "Description": "Anel em prata 925, com resina aplicada",
+            "Tamanho":18,
+            "QuantityAlpha":1,
+            "Price":420
+        },
+        {
+            "Name": "Anel Geometrico",
+            "Collection": "Geometria",
+            "Color": "Rosa",
+            "Description": "Anel em prata 925, com resina aplicada",
+            "Price":420
+        },
+        {
+            "Name": "Anel Bola",
+            "Collection": "Geometria",
+            "Color": "Amarelo",
+            "Description": "Anel em prata 925, com resina aplicada",
+            "Tamanho":15,
+            "Price":630,
+            "OBS": "retirei"
+        },
+        {
+            "Name": "Anel Bola",
+            "Collection": "Geometria",
+            "Color": "Laranja",
+            "Description": "Anel em prata 925, com resina aplicada",
+            "Tamanho": "19; 21",
+            "Price":630,
+            "OBS": "retirei"
+        },
+        {
+            "Name": "Anel Bola",
+            "Collection": "Geometria",
+            "Color": "Vinho",
+            "Description": "Anel em prata 925, com resina aplicada",
+            "Price":630
+        },
+        {
+            "Name": "Anel Bola",
+            "Collection": "Geometria",
+            "Color": "Branco",
+            "Description": "Anel em prata 925, com resina aplicada",
+            "Price":630,
+            "OBS": "retirei"
+        },
+        {
+            "Name": "Anel Bola",
+            "Collection": "Geometria",
+            "Color": "Rosa",
+            "Description": "Anel em prata 925, com resina aplicada",
+            "Tamanho":17,
+            "Price":630,
+            "OBS": "retirei"
+        },
+        {
+            "Name": "Colar",
+            "Collection": "Geometria",
+            "Color": "Amarelo",
+            "Description": "Pingente em prata 925, com resina aplicada. Acompanha Colorrente 35cm.",
+            "Price":650
+        },
+        {
+            "Name": "Colar",
+            "Collection": "Geometria",
+            "Color": "Laranja",
+            "Description": "Pingente em prata 925, com resina aplicada. Acompanha Colorrente 35cm.",
+            "QuantityAlpha": 1,
+            "Price":650
+        },
+        {
+            "Name": "Colar",
+            "Collection": "Geometria",
+            "Color": "Vinho",
+            "Description": "Pingente em prata 925, com resina aplicada. Acompanha Colorrente 35cm.",
+            "Price":650
+        },
+        {
+            "Name": "Colar",
+            "Collection": "Geometria",
+            "Color": "Branco",
+            "Description": "Pingente em prata 925, com resina aplicada. Acompanha Colorrente 35cm.",
+            "Price":650
+        },
+        {
+            "Name": "Colar",
+            "Collection": "Geometria",
+            "Color": "Rosa",
+            "Description": "Pingente em prata 925, com resina aplicada. Acompanha Colorrente 35cm.",
+            "QuantityAlpha":1,
+            "Price":650
+        },
+        {
+            "Name": "Broche Retangular",
+            "Collection": "Geometria",
+            "Color": "Amarelo",
+            "Description": "Broche em prata 925, com resina aplicada. ",
+            "Price":450,
+            "OBS": "retirei"
+        },
+        {
+            "Name": "Broche Retangular",
+            "Collection": "Geometria",
+            "Color": "Laranja",
+            "Description": "Broche em prata 925, com resina aplicada. ",
+            "Price":450,
+            "OBS": "retirei"
+        },
+        {
+            "Name": "Broche Retangular",
+            "Collection": "Geometria",
+            "Color": "Vinho",
+            "Description": "Broche em prata 925, com resina aplicada. ",
+            "Price":450,
+            "OBS": "retirei"
+        },
+        {
+            "Name": "Broche Retangular",
+            "Collection": "Geometria",
+            "Color": "Branco",
+            "Description": "Broche em prata 925, com resina aplicada. ",
+            "Price":450,
+            "OBS": "retirei"
+        },
+        {
+            "Name": "Broche Retangular",
+            "Collection": "Geometria",
+            "Color": "Rosa",
+            "Description": "Broche em prata 925, com resina aplicada. ",
+            "Price":450,
+            "OBS": "vendido"
+        },
+        {
+            "Name": "Pulseira Geometrica",
+            "Collection": "Bracelets",
+            "Color": "Amarelo",
+            "Description": "Bracelete em prata 925, com resina aplicada. ",
+            "QuantityAlpha":1,
+            "Price":680
+        },
+        {
+            "Name": "Pulseira Geometrica",
+            "Collection": "Bracelets",
+            "Color": "Laranja",
+            "Description": "Bracelete em prata 925, com resina aplicada. ",
+            "QuantityAlpha":1,
+            "Price":680
+        },
+        {
+            "Name": "Pulseira Geometrica",
+            "Collection": "Bracelets",
+            "Color": "Vinho",
+            "Description": "Bracelete em prata 925, com resina aplicada. ",
+            "QuantityAlpha":1,
+            "Price":680
+        },
+        {
+            "Name": "Pulseira Geometrica",
+            "Collection": "Bracelets",
+            "Color": "Branco",
+            "Description": "Bracelete em prata 925, com resina aplicada. ",
+            "QuantityAlpha":2,
+            "Price":680
+        },
+        {
+            "Name": "Pulseira Geometrica",
+            "Collection": "Bracelets",
+            "Color": "Rosa",
+            "Description": "Bracelete em prata 925, com resina aplicada. ",
+            "Price":680
+        },
+        {
+            "Name": "Anel Gold",
+            "Collection": "Precious Gold",
+            "Color": "Preto",
+            "Description": "Bracelete em prata 925, com resina aplicada. ",
+            "Tamanho":21,
+            "QuantityAlpha":1,
+            "Price":695
+        },
+        {
+            "Name": "Anel Gold",
+            "Collection": "Precious Gold",
+            "Color": "Azul",
+            "Tamanho":17,
+            "QuantityAlpha":1,
+            "Price":695
+        },
+        {
+            "Name": "Anel Gold",
+            "Collection": "Precious Gold",
+            "Color": "Verde",
+            "Tamanho":20,
+            "Price":695,
+            "OBS": "retirei"
+        },
+        {
+            "Name": "Anel Gold",
+            "Collection": "Precious Gold",
+            "Color": "Coloral",
+            "Price":695
+        },
+        {
+            "Name": "Brinco Bola Gold",
+            "Collection": "Precious Gold",
+            "Color": "Preto",
+            "Price":750,
+            "OBS": "retirei"
+        },
+        {
+            "Name": "Brinco Bola Gold",
+            "Collection": "Precious Gold",
+            "Color": "Azul",
+            "Price":750,
+            "OBS": "retirei"
+        },
+        {
+            "Name": "Brinco Bola Gold",
+            "Collection": "Precious Gold",
+            "Color": "Verde",
+            "Price":750,
+            "OBS": "retirei"
+        },
+        {
+            "Name": "Brinco Bola Gold",
+            "Collection": "Precious Gold",
+            "Color": "Coloral",
+            "Price":750,
+            "OBS": "retirei"
+        },
+        {
+            "QuantityAlpha":15
+        },
+        {
+            "Price": ""
+        }
+    ],
+    "ResinParts": [
+        {
+            "Name": "Pulseira Gomos",
+            "Collection": "Resina",
+            "Color": "após a obs",
+            "QuantityAlpha":6,
+            "Price":130,
+            "OBS": "1 de cada Color e 2 vinhos"
+        },
+        {
+            "Name": "Pulseira cilindrica",
+            "Collection": "Resina",
+            "Color": "após a obs",
+            "QuantityAlpha":4,
+            "Price":140,
+            "OBS": "2 de cada Color"
+        },
+        {
+            "Name": "Pulseira lisa",
+            "Collection": "Resina",
+            "Color": "após a obs",
+            "QuantityAlpha":6,
+            "Price":60,
+            "OBS": "2 de cada Color"
+        },
+        {
+            "Name": "Brinco Ponto",
+            "Collection": "Resina",
+            "Color": "após a obs",
+            "QuantityAlpha":2,
+            "Price":42,
+            "OBS": "1 de cada Color"
+        },
+        {
+            "Name": "Colar Bolas",
+            "Collection": "Resina",
+            "Color": "após a obs",
+            "QuantityAlpha":5,
+            "Price":177,
+            "OBS": "1 de cada Color"
+        },
+        {
+            "Name": "Colar Elos",
+            "Collection": "Resina",
+            "Color": "após a obs",
+            "QuantityAlpha":4,
+            "Price":204,
+            "OBS": "1 de cada Color"
+        },
+        {
+            "Name": "Colar oval",
+            "Collection": "Resina",
+            "Color": "após a obs",
+            "QuantityAlpha":2,
+            "Price":280,
+            "OBS": "1 de cada Color"
+        },
+        {
+            "Name": "Colar Cubos",
+            "Collection": "Resina",
+            "Color": "após a obs",
+            "QuantityAlpha":4,
+            "Price":255,
+            "OBS": "1 de cada Color"
+        },
+        {
+            "Color": "tota;l",
+            "QuantityAlpha":33,
+            "Price":5065
+        },
+        {
+            "OBS": "vendido"
+        },
+        {
+            "QuantityAlpha":66
+        },
+        {
+            "Price": ""
+        }
+    ]
+}
